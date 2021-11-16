@@ -23,7 +23,7 @@
   "homepage": "https://github.com/brentlemons/aws-swim-parse-poc#readme",
   "devDependencies": {
     "@types/node": "^13.11.1",
-    "aws-sdk": "^2.656.0",
+    "aws-sdk": "^2.814.0",
     "chai": "^4.2.0",
     "mocha": "^7.1.1",
     "npm-pack-zip": "^1.2.7",
